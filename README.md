@@ -25,7 +25,7 @@ The challenge focuses on understanding how large language models (LLMs) behave u
 | Level 5 | ✅ Completed |
 | Level 6 | ✅ Completed |
 | Level 7 | ✅ Completed |
-| Level 8 | ✅ Completed |
+| Level 8 |  |
 
 ## Methodology
 
@@ -37,4 +37,3 @@ While solving the challenges I followed a structured approach:
 4. Extract contextual clues from generated text
 5. Deduce hidden information
 
-Each level folder contains the full write-up and screenshots.
